@@ -1,12 +1,11 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'platziVideo' do
-  # Pods for platziVideo
+target 'reactNativePlatziVideo' do
+  # Pods for reactNativePlatziVideo
   pod 'React', :path => '../node_modules/react-native/'
   pod 'React-Core', :path => '../node_modules/react-native/React'
   pod 'React-DevSupport', :path => '../node_modules/react-native/React'
-  pod 'React-fishhook', :path => '../node_modules/react-native/Libraries/fishhook'
   pod 'React-RCTActionSheet', :path => '../node_modules/react-native/Libraries/ActionSheetIOS'
   pod 'React-RCTAnimation', :path => '../node_modules/react-native/Libraries/NativeAnimation'
   pod 'React-RCTBlob', :path => '../node_modules/react-native/Libraries/Blob'
@@ -28,7 +27,7 @@ target 'platziVideo' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  target 'platziVideoTests' do
+  target 'reactNativePlatziVideoTests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -36,10 +35,10 @@ target 'platziVideo' do
   use_native_modules!
 end
 
-target 'platziVideo-tvOS' do
-  # Pods for platziVideo-tvOS
+target 'reactNativePlatziVideo-tvOS' do
+  # Pods for reactNativePlatziVideo-tvOS
 
-  target 'platziVideo-tvOSTests' do
+  target 'reactNativePlatziVideo-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

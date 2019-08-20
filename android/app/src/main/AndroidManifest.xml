@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.platzivideo">
+  package="com.reactnativeplatzivideo">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

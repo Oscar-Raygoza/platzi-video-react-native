@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "platziVideo-tvOS.app"
-               BlueprintName = "platziVideo-tvOS"
-               ReferencedContainer = "container:platziVideo.xcodeproj">
+               BuildableName = "reactNativePlatziVideo-tvOS.app"
+               BlueprintName = "reactNativePlatziVideo-tvOS"
+               ReferencedContainer = "container:reactNativePlatziVideo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "platziVideo-tvOSTests.xctest"
-               BlueprintName = "platziVideo-tvOSTests"
-               ReferencedContainer = "container:platziVideo.xcodeproj">
+               BuildableName = "reactNativePlatziVideo-tvOSTests.xctest"
+               BlueprintName = "reactNativePlatziVideo-tvOSTests"
+               ReferencedContainer = "container:reactNativePlatziVideo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "platziVideo-tvOSTests.xctest"
-               BlueprintName = "platziVideo-tvOSTests"
-               ReferencedContainer = "container:platziVideo.xcodeproj">
+               BuildableName = "reactNativePlatziVideo-tvOSTests.xctest"
+               BlueprintName = "reactNativePlatziVideo-tvOSTests"
+               ReferencedContainer = "container:reactNativePlatziVideo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "platziVideo-tvOS.app"
-            BlueprintName = "platziVideo-tvOS"
-            ReferencedContainer = "container:platziVideo.xcodeproj">
+            BuildableName = "reactNativePlatziVideo-tvOS.app"
+            BlueprintName = "reactNativePlatziVideo-tvOS"
+            ReferencedContainer = "container:reactNativePlatziVideo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "platziVideo-tvOS.app"
-            BlueprintName = "platziVideo-tvOS"
-            ReferencedContainer = "container:platziVideo.xcodeproj">
+            BuildableName = "reactNativePlatziVideo-tvOS.app"
+            BlueprintName = "reactNativePlatziVideo-tvOS"
+            ReferencedContainer = "container:reactNativePlatziVideo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "platziVideo-tvOS.app"
-            BlueprintName = "platziVideo-tvOS"
-            ReferencedContainer = "container:platziVideo.xcodeproj">
+            BuildableName = "reactNativePlatziVideo-tvOS.app"
+            BlueprintName = "reactNativePlatziVideo-tvOS"
+            ReferencedContainer = "container:reactNativePlatziVideo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
